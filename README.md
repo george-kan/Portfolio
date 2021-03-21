@@ -9,5 +9,5 @@
 
 Random forests | Opening popularity | Game variability
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/george-kan/Portfolio/blob/main/images/predictions_accuracy-1.png" width="300" height="300"/> |  <img src="/images/pop_change-1.png" width="300" height="300"/> | <img src="/images/game_flips-1.png" width="300" height="300"/>
+<img src="https://github.com/george-kan/Portfolio/blob/main/images/predictions_accuracy-1.png" width="300" height="300"/> |  <img src="/images/pop_change-1.png" width="300" height="300"/> | <img src="../images/game_flips-1.png" width="300" height="300"/>
 
