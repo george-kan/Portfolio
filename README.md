@@ -9,5 +9,5 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/images/game_flips-1.png)  |  ![](/images/pop_change-1.png)
+!<img src="https:///images/game_flips-1.png" width="100" height="100"> |  ![](/images/pop_change-1.png)
 
