@@ -6,4 +6,7 @@
 - Analysed the popularity of different openings accross rating as well as their success rate for White and Black
 - Investigated the relationship between Elo rating and the occurance of inaccurate moves
 - Predicted the game outcome using Random Forests (R ranger package)
-![](/images/game_flips-1.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/game_flips-1.png)  |  ![](https://...Ocean.png)
+
