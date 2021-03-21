@@ -7,6 +7,7 @@
 - Investigated the relationship between Elo rating and the occurance of inaccurate moves
 - Predicted the game outcome using Random Forests (R ranger package)
 
+Solarized dark | Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://github.com/george-kan/Portfolio/blob/main/images/predictions_accuracy-1.png" width="100" height="100"> |  !<img src="https://github.com/george-kan/Portfolio/blob/main/images/pop_change-1.png" width="100" height="100">
 
